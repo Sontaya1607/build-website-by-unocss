@@ -1,0 +1,14 @@
+:root {
+  --c-primary: 58, 12, 163;
+
+  --c-color-1: 67, 97, 238;
+  --c-color-2: 76, 201, 240;
+  --c-color-3: 114, 9, 183;
+  --c-color-4: 247, 37, 133;
+
+  --c-text-color-1: 11, 9, 10;
+  --c-text-color-2: 43, 43, 43;
+  --c-text-color-3: 128, 128, 128;
+  --c-text-color-4: 170, 170, 170;
+  --c-text-color-5: 212, 212, 212;
+}

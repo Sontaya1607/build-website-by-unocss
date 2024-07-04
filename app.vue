@@ -1,5 +1,11 @@
+<script setup lang="ts">
+useHead({
+  title: 'Real Estate',
+})
+</script>
+
 <template>
-  <main class="text-white min-h-screen bg-black">
-    <div>Hello, World</div>
-  </main>
+  <div class="text-tc-2 text-base font-normal font-poppins">
+    <NuxtPage />
+  </div>
 </template>
