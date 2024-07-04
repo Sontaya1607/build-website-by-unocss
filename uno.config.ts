@@ -51,5 +51,11 @@ export default defineConfig({
         5: 'rgb(var(--c-text-color-5), <alpha-value>)',
       },
     },
+    container: {
+      padding: {
+        DEFAULT: '1.75rem',
+        xl: '6rem',
+      },
+    },
   },
 })

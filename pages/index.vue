@@ -13,7 +13,7 @@
       </div>
     </div> -->
 
-    <nav class="mx-auto h-20 flex items-center justify-start justify-between container">
+    <!-- <nav class="mx-auto h-20 flex items-center justify-start justify-between container">
       <div class="w-1/3 flex items-center">
         <a href="#home" class="rounded-full bg-[#4361EE]/30 px-4 py-2 font-semibold">Home</a>
         <a href="#about" class="px-4 py-2">About</a>
@@ -31,7 +31,7 @@
           Add Listing
         </button>
       </div>
-    </nav>
+    </nav> -->
 
     <div class="h-[460px] border border-dashed">
       Content
