@@ -81,7 +81,7 @@
             Subscribe to our Newsletter!
           </h6>
 
-          <div class="mb-10 flex items-center rounded-full bg-white p-1 pl-6 shadow lg:mb-8">
+          <div class="mb-10 flex items-center rounded-full bg-white p-1 pl-6 shadow-sm lg:mb-8">
             <input
               id="email" type="email" name="email"
               class="h-11 w-full shrink-1 !outline-none"

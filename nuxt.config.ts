@@ -11,6 +11,7 @@ export default defineNuxtConfig({
   css: [
     '@unocss/reset/tailwind.css',
     '~/assets/vars.css',
+    '~/assets/default-theme.css',
   ],
 
   compatibilityDate: '2024-07-03',
